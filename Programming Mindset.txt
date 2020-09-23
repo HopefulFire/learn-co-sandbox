@@ -1,0 +1,155 @@
+//What makes an effective programmer?//
+
+  An effective programmer does not necessarily write code faster. 10,000 lines of code can be replaced by 500.
+  
+  An effective programmer writes better tests.
+  
+  Effective programmers really know the issue that is being solved.
+  
+  Programmers are problem solvers.
+  
+    What is the problem I'm trying to solve?
+    What does the output look like?
+    What is the end result I'm trying to build?
+    What inputs do I need in order to create that output?
+    What do I have now?
+    What is missing?
+    
+  Problem solving is a skill that takes time to develop.
+  
+  There are many opportunities in real life situations to improve problem solving.
+  
+  
+//What does a programmer's mindset look like?//
+
+  Writing is like driving at night in the fog. You can only see as far as your headlights, but you can make the whole trip that way. -- E.L. Doctrow
+  
+  Most programmers have no idea from the start how to solve their problems.
+  
+  Instead, programmers have a process by which they can solve their code.
+  
+  Mindfulness:
+    
+    Being in the moment. You can only truely do one thing at a time.
+    You might rather do something mindless, but that is proof you are doing something mindful!
+  
+  Bravery:
+    
+    Be strong against the unknown. Solve problems that have never been solved before!
+  
+  Focus:
+  
+    The greatest weapon you have. Most people don't have this skill.
+    Being able to set yourself on a path and continue through with it is a great ability.
+    When you feel restless, you are not focused on something worthwhile.
+    
+  Don't Flail:
+    
+    Problem solve! Expect more of your code, understand what it is doing.
+    
+  Don't Take The Easy Road:
+  
+    Copying and pasting from the internet is a bad idea at best.
+    
+  Respect The Problem:
+  
+    Own up to not knowing what you need to know.
+    There may be layers of complexity you should educate yourself on.
+    Humble yourself. You can't snap your fingers to solve everything!
+    
+  
+//How does the Flatiron Programming Process help solve programming problems?//
+  
+  The Flatiron learning process consists of seven steps.
+  
+    Identify the problem:
+      What is the goal?
+      What are the customer's needs?
+      What is the reality of the problem?
+    
+    Identify the output that would solve the problem:
+      What does the problem need?
+      What do you want to happen?
+    
+    Name the procedure that fixes the problem:
+      What will make the thing you want to happen happen?
+      How do you achieve your goal?
+      Identify the steps to solve the problem.
+      
+    Identify what inputs are needed to create the output:
+      What do we need as inputs?
+      Is there another problem that needs to be solved first?
+    
+    Define the procedure's implementation:
+      Write pseudocode!
+      
+    Translate the procedure description into code:
+      Code it!
+      
+    Verify the procedure's output:
+      If you got what you wanted in the second step, great!
+      If it wasn't the desired output:
+        Adjust input
+        Adjust implementation
+        Spin off sub-procedures
+        Verify output
+        Move from success to success, accumulating success
+
+
+//What's the best way to ask questions and learn from feedback?//
+  
+  Begin with a focused section of code.
+  
+  State your inputs.
+  
+  State your outputs.
+  
+  State your expectation.
+  
+  State your theory for what should have happened.
+  
+  Check the documentation to make sure your implementation works as expected.
+  
+  Test the implementation in an IDE.
+  
+  Submit the question (if necessary).
+  
+  Be polite.
+  
+  Uphold the Community Standards.
+
+//What are some strategies for getting unstuck when working on a problem?//
+
+  Simplify the problem.
+  
+  Research similar problems and solutions (don't cut and paste code into your own solution).
+  
+  Look at the problem from a different angle.
+  
+  Break the problem down into smaller parts.
+  
+  Start with a solution and solve the problem backwards.
+  
+  Run Uphill: Do the hard thing you don't want to do.
+  
+  
+//What is pseudocoding and how does it help us code?//
+
+  Pseudocode is a rough draft for programming.
+  
+  You can describe the process you want done before getting it done in code.
+  
+  Follow the 7 Flatiron steps to solving problems.
+
+
+//What are the community standards and expectations for asking questions and posting issues?//
+  
+  Share all the details obout the problem you've encountered and what steps you've already taken.
+  
+  Be specific and focused with your issue.
+  
+  Be polite and keep perspective.
+  
+  Leverage the Issues tab of GitHub.
+  
+  Don't comment on Closed issues.
